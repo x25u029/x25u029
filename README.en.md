@@ -4,7 +4,7 @@
 
 # 👋
 
-**I'm a student in an IT engineering program. This account is for class assignments and exercises.**
+**This account is for class assignments and exercises.**
 
 </div>
 
@@ -12,7 +12,6 @@
 
 ## 🧑‍💻 About Me
 
-- 🏫 Enrolled in a 4-year IT engineering program
 - 📚 I manage code for class assignments and exercises with this account
 - 🌱 Currently learning web development, databases, networking, and AI-assisted development
 
