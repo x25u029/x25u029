@@ -1,0 +1,79 @@
+<div align="center">
+
+[English](https://github.com/x25u029/x25u029/blob/main/README.en.md) | **日本語**
+
+# 👋
+
+**ITエンジニア科の学生です。授業の課題・演習用のアカウントです。**
+
+</div>
+
+---
+
+## 🧑‍💻 自己紹介
+
+- 🏫 4年制のITエンジニア科に在籍
+- 📚 授業の課題・演習のコードをこのアカウントで管理しています
+- 🌱 Web開発、データベース、ネットワーク、AIを活用した開発を勉強中
+
+## 🛠️ スキル
+
+### 言語
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
+
+### フレームワーク・実行環境
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+### データベース
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### インフラ・ネットワーク
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![nginx](https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0wIDBoMTEuNHYxMS40SDB6TTEyLjYgMEgyNHYxMS40SDEyLjZ6TTAgMTIuNmgxMS40VjI0SDB6TTEyLjYgMTIuNkgyNFYyNEgxMi42eiIvPjwvc3ZnPg==)
+
+### ツール
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+
+## 🏅 資格
+
+- ✅ **ITパスポート試験 (IP)** — 取得済み
+- ✅ **基本情報技術者試験 (FE)** — 取得済み
+- ✅ **CCNA (200-301)** — 取得済み
+- 📝 **応用情報技術者試験 (AP)** — 勉強中
+
+## 📂 リポジトリ
+
+授業ごとにリポジトリを分けて管理しています。
+
+<!-- 例：
+- [web-practice2](https://github.com/x25u029/web-practice2) — Web技術演習Ⅱの課題
+- [oracle-db](https://github.com/x25u029/oracle-db) — Oracleデータベース応用のSQL課題
+-->
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=x25u029&show_icons=true&theme=default&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=x25u029&layout=compact&hide_border=true)
+
+</div>
+
+<!-- 個人アカウントへのリンクを載せる場合はコメントを外す
+## 🔗 リンク
+- 個人アカウント: [@gororin-06](https://github.com/gororin-06)
+-->
