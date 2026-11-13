@@ -16,7 +16,7 @@
 - 📚 授業の課題・演習のコードをこのアカウントで管理しています
 - 🌱 Web開発、データベース、ネットワーク、AIを活用した開発を勉強中
 
-## 🛠️ スキル
+## 📚 学習中の技術
 
 ### 言語
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
