@@ -54,14 +54,6 @@
 - ✅ **CCNA (200-301)** — 取得済み
 - 📝 **応用情報技術者試験 (AP)** — 勉強中
 
-## 📂 リポジトリ
-
-授業ごとにリポジトリを分けて管理しています。
-
-<!-- 例：
-- [web-practice2](https://github.com/x25u029/web-practice2) — Web技術演習Ⅱの課題
-- [oracle-db](https://github.com/x25u029/oracle-db) — Oracleデータベース応用のSQL課題
--->
 
 ## 📊 GitHub Stats
 
@@ -72,7 +64,3 @@
 
 </div>
 
-<!-- 個人アカウントへのリンクを載せる場合はコメントを外す
-## 🔗 リンク
-- 個人アカウント: [@gororin-06](https://github.com/gororin-06)
--->
